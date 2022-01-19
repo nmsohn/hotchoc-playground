@@ -11,7 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using TodoListGQL.Configuration;
-using TodoListGQL.Data;
+using TodoListGQL.DataAccess;
 using TodoListGQL.Entity;
 using TodoListGQL.Mutation;
 using TodoListGQL.Query;

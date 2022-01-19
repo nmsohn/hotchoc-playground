@@ -4,7 +4,7 @@ using HotChocolate;
 using HotChocolate.Data;
 using HotChocolate.Subscriptions;
 using HotChocolate.Types;
-using TodoListGQL.Data;
+using TodoListGQL.DataAccess;
 using TodoListGQL.Entity;
 using TodoListGQL.Mutation.Dto;
 using TodoListGQL.Subscription;

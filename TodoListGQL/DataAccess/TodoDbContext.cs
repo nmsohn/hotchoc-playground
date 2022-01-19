@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using TodoListGQL.Entity;
 
-namespace TodoListGQL.Data
+namespace TodoListGQL.DataAccess
 {
     public class TodoDbContext : DbContext
     {

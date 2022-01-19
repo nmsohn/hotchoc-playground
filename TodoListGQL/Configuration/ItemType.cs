@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using HotChocolate;
 using HotChocolate.Types;
-using TodoListGQL.Data;
+using TodoListGQL.DataAccess;
 using TodoListGQL.Entity;
 
 namespace TodoListGQL.Configuration

@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TodoListGQL;
-using TodoListGQL.Data;
+using TodoListGQL.DataAccess;
 
 namespace TodoListGQL.Migrations
 {
